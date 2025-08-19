@@ -1,2 +1,1 @@
-# my-first-repo
-This is the "main branch version"
+This repository demonstrates both main and feature changes merged together
